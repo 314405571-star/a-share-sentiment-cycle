@@ -1,0 +1,8 @@
+# Core scoring (src/indicators.py, src/sentiment.py) has no third-party dependency
+# beyond the standard library. The lines below are for the demo and the adapter.
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+# Only needed for live data: python -m src.scanner ...
+baostock>=0.8.8
