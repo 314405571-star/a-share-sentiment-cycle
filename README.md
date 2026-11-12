@@ -156,6 +156,7 @@ Each fix has a regression test named after it, e.g.
 ├── legacy/                 # the three original notebook versions, unmodified
 ├── notebooks/情绪因子.ipynb  # original notebook
 ├── docs/算法总结.md          # full derivation, parameter table, pitfalls (Chinese)
+├── docs/公众号文章.md        # long-form write-up on the same ideas (Chinese)
 ├── tests/
 └── requirements.txt
 ```

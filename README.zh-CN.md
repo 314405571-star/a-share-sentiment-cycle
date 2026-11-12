@@ -149,6 +149,7 @@ print(snap.report())           # 格式化日报
 ├── legacy/                 # 原 notebook 的三个版本，原样保留
 ├── notebooks/情绪因子.ipynb  # 原始 notebook
 ├── docs/算法总结.md          # 完整推导、参数表、踩坑记录
+├── docs/公众号文章.md        # 面向公众号读者的技术长文
 ├── tests/
 └── requirements.txt
 ```
